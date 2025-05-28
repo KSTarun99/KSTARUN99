@@ -5,15 +5,15 @@
 ## 👋 Hello there, welcome to my portfolio!
 
 
-I'm **KS Tarun**, an innovative professional with a proven track record as a skilled **Product Owner**, specializing in technical product management for **AI/ML**, **Computer Vision**, and **Generative AI**-powered products.
+I'm an innovative professional with a proven track record as a skilled **Product Owner**, specializing in AI product management for **AI/ML**, **Computer Vision**, **Gen & Agentic AI**-powered products.
 
-🔹 Passionate about building AI-driven solutions that solve real-world problems
+🔹 Passionate about building AI-driven solutions that solve real-world problems.
 🔹 Experienced in designing intuitive **mobile and web interfaces**
-🔹 Led end-to-end product development from idea to launch
-🔹 Successfully revamped the **retail checkout page** with revenue-generating features
+🔹 Led end-to-end product development from idea to launch.
+🔹 Successfully executed & built revenue-generating features.
 🔹 Defined and managed **product strategies**, **roadmaps**, and **PRDs**
-🔹 Practiced **Agile methodologies** for high-quality and timely product releases
-🔹 Supported **GTM strategies**, presales, and cross-functional collaboration
+🔹 Practiced **Agile & Scrum** for high-quality and timely product releases.
+🔹 Supported **GTM strategies**, presales, and cross-functional collaboration.
 
 ---
 
@@ -21,26 +21,27 @@ I'm **KS Tarun**, an innovative professional with a proven track record as a ski
 
 **AI Product Manager** with extensive experience in:
 
-* **Product Life Cycle Management**
-* **Product Strategy & Road Mapping**
-* **Backlog Management & Prioritization**
-* **UX Design & Wireframing**
+* **Product Life Cycle & Management**
+* **Product Vision, Strategy & Road Mapping**
+* **Backlog Management, Refinement & Prioritization**
+* **UX Design Thinking, Wireframing & prototyping using figma**
 * **Agile Project Management & Scrum**
 * **AI/ML | Computer Vision | Generative & Agentic AI**
 * **Data Analytics & Visualization**
+* **Go-to-Market & Presales**
 
 ---
 
 ## 🛠️ Skills
 
 **Product Skills:**
-Market Research | Competitor Analysis | Value Proposition Design | Business Model Canvas | Product Requirement Document | Road Mapping | Design Thinking | Wireframes & Prototyping | User Stories | Backlog Management | Agile | SDLC | Stakeholder Management | Pre-Sales | Analytics | Feedback Integration | SWOT Analysis
+Market Research | Competitor Analysis | Value Proposition Design | Business Model Canvas | Road Mapping | Product Requirement Document | Design Thinking | Wireframes & Prototyping | User Stories | Backlog Management | Agile Project Management & Scrum | SDLC | Stakeholder Management | Pre-Sales | Product Analytics | Feedback & SWOT Analysis
 
 **Technical Skills:**
-AI/ML | Computer Vision | Generative AI | Agentic AI | Data Analytics | Data Visualization | Frontend | Backend | Database | APIs | QA Testing & Delivery | SQL
+AI/ML | Computer Vision | Generative AI | Agentic AI | Data Analytics | Data Visualization | Frontend | Backend | Database | APIs | QA Testing & Delivery | SQL | Python
 
-**Industry Experience:**
-Retail | E-commerce | Telecom | Healthcare | Fintech
+**Industry Knowledge:**
+Retail | E-commerce | Telecom | Healthcare | Fintech | Hospitality
 
 ---
 
@@ -48,10 +49,10 @@ Retail | E-commerce | Telecom | Healthcare | Fintech
 
 | Product & Design | Analytics & Insights | AI Tools   |
 | ---------------- | -------------------- | ---------- |
-| Jira             | MS Office Suite      | Asana      | 
+| Jira             | MS Office Suite      | Text 2 SQL | 
 | Confluence       | Mix Panel            | Lovable    | 
-| Miro             | Power BI             | Perplexity |
-| Figma            | Notion               | ChatGPT    |
+| Miro & Draw.io   | Power BI             | Perplexity |
+| Figma            | Tableau              | ChatGPT    |
 ---
 
 ## 📫 Let’s Connect
