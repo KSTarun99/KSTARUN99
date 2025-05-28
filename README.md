@@ -62,7 +62,7 @@ Retail | E-commerce | Telecom | Healthcare | Fintech | Hospitality
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:9333ea,100:3b82f6\&height=120\&section=footer)
 
-> “Building tech with empathy, purpose, and intelligence.”
+> “Building products with empathy, purpose, and for Business goals.”
 
 
 ###
