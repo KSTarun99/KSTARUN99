@@ -35,12 +35,12 @@ I'm an innovative professional with a proven track record as a skilled **Product
 ## 🛠️ Skills
 
 **Product Skills:**
-Market Research | Competitor Analysis | Value Proposition Design | Business Model Canvas | Road Mapping | Product Requirement Document | Design Thinking | Wireframes & Prototyping | User Stories | Backlog Management | Agile Project Management & Scrum | SDLC | Stakeholder Management | Pre-Sales | Product Analytics | Feedback & SWOT Analysis
+Market Research | Competitor Analysis | Value Proposition Design | Product Vision & Strategy | Road Mapping | Product Requirement Document | Design Thinking | Wireframes & Prototyping | User Stories & Flows | Backlog Management | Agile Project Management & Scrum | SDLC | Stakeholder Management | Go-To-Market & Pre-Sales | Product Analytics | Feedback Integration
 
 **Technical Skills:**
 AI/ML | Computer Vision | Generative AI | Agentic AI | Data Analytics | Data Visualization | Frontend | Backend | Database | APIs | QA Testing & Delivery | SQL | Python
 
-**Industry Knowledge:**
+**Industry expertise:**
 Retail | E-commerce | Telecom | Fintech | Hospitality
 
 ---
