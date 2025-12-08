@@ -5,7 +5,7 @@
 ## 👋 Hello there, welcome to my portfolio!
 
 
-I'm an innovative professional with a proven track record as a skilled **Product Owner**, specializing in AI product management for **AI/ML**, **Computer Vision**, **Gen & Agentic AI**-powered products.
+I'm an innovative professional with a proven track record as a skilled **Associate Product Manager / Product Owner**, specializing in AI product management for **AI/ML**, **Computer Vision**, **Gen & Agentic AI**-powered products.
 
 🔹 Passionate about building AI-driven solutions that solve real-world problems.
 🔹 Experienced in designing intuitive **mobile and web interfaces**
@@ -41,7 +41,7 @@ Market Research | Competitor Analysis | Value Proposition Design | Product Visio
 AI/ML | Computer Vision | Generative AI | Agentic AI | Data Analytics | Data Visualization | Frontend | Backend | Database | APIs | QA Testing & Delivery | SQL | Python
 
 **Industry expertise:**
-Retail | E-commerce | Telecom | Fintech | Hospitality
+Retail | E-commerce | Q-commerce | Healthcare | Hospitality | Telecom
 
 ---
 
