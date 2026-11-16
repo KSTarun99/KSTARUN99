@@ -5,7 +5,7 @@
 ## 👋 Hello there, welcome to my portfolio!
 
 
-I'm an innovative professional with a proven track record as a skilled **Associate Product Manager / Product Owner**, specializing in AI product management for **AI/ML**, **Computer Vision**, **Gen & Agentic AI**-powered products.
+I'm an innovative professional with a proven track record as a skilled **Product Manager / Product Owner**, specializing in AI product management for **AI/ML**, **Computer Vision**, **Gen & Agentic AI**-powered products.
 
 🔹 Passionate about building AI-driven solutions that solve real-world problems.
 🔹 Experienced in designing intuitive **mobile and web interfaces**
