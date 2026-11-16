@@ -41,7 +41,7 @@ Market Research | Competitor Analysis | Value Proposition Design | Product Visio
 AI/ML | Computer Vision | Generative AI | Agentic AI | Data Analytics | Data Visualization | Frontend | Backend | Database | APIs | QA Testing & Delivery | SQL | Python
 
 **Industry expertise:**
-Retail | E-commerce | Q-commerce | Healthcare | Hospitality | Telecom
+Retail | E-commerce | Fin-tech payments | Healthcare | Hospitality
 
 ---
 
